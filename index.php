@@ -1,4 +1,4 @@
-Welcome to Jubin's DevOps/DoAll practice page. 
+Welcome to Jubin's DevOps/DoAl practice page. 
 
 
 <br/>
